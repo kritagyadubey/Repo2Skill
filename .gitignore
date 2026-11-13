@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# repo2skill workspaces
+out/
+scratch/
+src/
+
+# release artifact built from skills/repo2skill
+repo2skill-skill-only.zip
+
+# OS noise
+.DS_Store
+Thumbs.db
